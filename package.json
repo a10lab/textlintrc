@@ -1,6 +1,6 @@
 {
   "private": true,
-  "name": "@textlint/editor-script-template",
+  "name": "@yasuhiroki/textlintrc",
   "version": "1.0.0",
   "description": "@textlint/editor script template",
   "scripts": {
