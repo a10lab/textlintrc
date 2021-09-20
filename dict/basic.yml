@@ -1,0 +1,13 @@
+rules:
+  - expected: いたします
+    pattern: 致します
+    prh: 補助動詞の場合はひらがなにしましょう
+  - expected: いただき
+    pattern: 頂き
+    prh: 補助動詞の場合はひらがなにしましょう
+  - expected: いただく
+    pattern: 頂く
+    prh: 補助動詞の場合はひらがなにしましょう
+  - expected: ください
+    pattern: 下さい
+    prh: 補助動詞の場合はひらがなにしましょう

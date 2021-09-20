@@ -3,6 +3,13 @@
     "comments": true
   },
   "rules": {
-    "no-todo": true
+    "prh": {
+      "rulePaths" :[
+        "./dict/basic.yml",
+        "./dict/minchalle.yml"
+      ]
+    },
+    "preset-japanese": true,
+    "@textlint-ja/no-synonyms": true
   }
 }
