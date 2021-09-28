@@ -8,6 +8,9 @@ rules:
   - expected: いただく
     pattern: 頂く
     prh: 補助動詞の場合はひらがなにしましょう
+  - expected: いただけ
+    pattern: 頂け
+    prh: 補助動詞の場合はひらがなにしましょう
   - expected: ください
     pattern: 下さい
     prh: 補助動詞の場合はひらがなにしましょう
