@@ -14,3 +14,10 @@ rules:
   - expected: ください
     pattern: 下さい
     prh: 補助動詞の場合はひらがなにしましょう
+  - expected: まいります
+    pattern: 参ります
+    prh: 補助動詞の場合はひらがなにしましょう
+  - expected: してほしい
+    pattern: して欲しい
+    prh: 補助形容詞の場合はひらがなにしましょう
+
