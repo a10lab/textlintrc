@@ -1,18 +1,19 @@
 {
   "private": true,
-  "name": "@yasuhiroki/textlintrc",
+  "name": "@a10lab/textlintrc",
   "version": "1.0.0",
+  "homepage": "https://github.com/a10lab/textintrc",
   "description": "@textlint/editor script template",
   "scripts": {
     "website": "textlint-website-generator --outputDir dist"
   },
   "devDependencies": {
-    "@textlint/website-generator": "^0.12"
+    "@textlint/website-generator": "^0.12.1"
   },
   "dependencies": {
     "@textlint-ja/textlint-rule-no-synonyms": "^1.3",
     "sudachi-synonyms-dictionary": "^9.0",
-    "textlint": "^12.0",
+    "textlint": "^12.0.2",
     "textlint-filter-rule-comments": "^1.2",
     "textlint-rule-preset-japanese": "^7.0",
     "textlint-rule-prh": "^5.3"
