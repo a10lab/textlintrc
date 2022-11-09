@@ -13,7 +13,7 @@
   "dependencies": {
     "@textlint-ja/textlint-rule-no-synonyms": "^1.3",
     "sudachi-synonyms-dictionary": "^9.0",
-    "textlint": "^12.0.2",
+    "textlint": "^12.1.1",
     "textlint-filter-rule-comments": "^1.2",
     "textlint-rule-preset-japanese": "^7.0",
     "textlint-rule-prh": "^5.3"
